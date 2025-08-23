@@ -166,7 +166,7 @@ a {
 
 /* Coin Details */
 .coin-details-container {
-  max-width: 700px;
+  max-width: 50%;
   margin: 40px auto;
   text-align: center;
   padding: 20px;
