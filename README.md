@@ -108,7 +108,7 @@ npm run preview
 ---
 
 ## 🌐 Live Demo
-- You can view [Crypto_Dash](crypto-dash-eight-xi.vercel.app) here.
+- You can view Crypto_Dash through this link (`crypto-dash-eight-xi.vercel.app`).
 
 
 ---
