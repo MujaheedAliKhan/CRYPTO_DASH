@@ -110,6 +110,9 @@ npm run preview
 ## 🌐 Live Demo
 - You can view [Crypto_Dash](crypto-dash-eight-xi.vercel.app) here.
 
+
+---
+
 ## 🤝 Contributing
 
 Feel free to open issues or PRs. You can add features like dark mode, more chart options, or unit tests.
